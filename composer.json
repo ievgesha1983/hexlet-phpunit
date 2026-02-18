@@ -26,7 +26,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Php\\Package\\Tests\\": "tests"
+      "Hexlet\\Phpunit\\Tests\\": "tests"
     },
     "files": [
       "tests/Utils.php"
